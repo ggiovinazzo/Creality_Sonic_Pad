@@ -11,4 +11,37 @@
 [submodule "mainsail_ys"]
 	path = mainsail_ys
 	url = https://github.com/CrealityTech/mainsail_ys.git
-	
+
+
+
+[submodule "klipper.main"]
+	path = _main/klipper
+	url = https://github.com/Klipper3d/klipper.git
+	branch = master
+ 
+[submodule "fluidd.main"]
+	path = _main/fluidd
+	url = https://github.com/fluidd-core/fluidd.git
+	branch = master
+
+[submodule "moonraker.main"]
+	path = _main/moonraker
+	url = https://github.com/Arksine/moonraker.git
+	branch = master
+
+[submodule "mainsail.main"]
+	path = _main/mainsail
+	url = https://github.com/mainsail-crew/mainsail.git
+	branch = master
+[submodule "_main/fluidd"]
+	path = _main/fluidd
+	url = https://github.com/fluidd-core/fluidd.git
+[submodule "_main/moonraker"]
+	path = _main/moonraker
+	url = https://github.com/Arksine/moonraker.git
+[submodule "_main/klipper"]
+	path = _main/klipper
+	url = https://github.com/Klipper3d/klipper.git
+[submodule "_main/mainsail"]
+	path = _main/mainsail
+	url = https://github.com/mainsail-crew/mainsail.git
